@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Greetech/static/css/main.d9c3c4fc.css",
-    "main.js": "/Greetech/static/js/main.e168a039.js",
-    "static/media/imageAbout.png": "/Greetech/static/media/imageAbout.24b596f4f9ee4e2e4113.png",
-    "static/media/Peta.png": "/Greetech/static/media/Peta.91da9761f98b48acee89.png",
-    "static/media/homeImage.png": "/Greetech/static/media/homeImage.16bf5837f07a6f7e988e.png",
-    "static/media/product-2.png": "/Greetech/static/media/product-2.93b49a37fac8882e98cc.png",
-    "static/media/whatsapp.png": "/Greetech/static/media/whatsapp.965d92ce0d9f486938b6.png",
-    "static/media/facebook.png": "/Greetech/static/media/facebook.01a470d813915c298403.png",
-    "static/media/gmail.png": "/Greetech/static/media/gmail.f8dfbe8b0875e9328ff2.png",
-    "static/media/point.png": "/Greetech/static/media/point.33023731b346ee2b429c.png",
-    "static/media/twitter.png": "/Greetech/static/media/twitter.28b4dce41e4e33858919.png",
-    "static/media/linkedin.png": "/Greetech/static/media/linkedin.6892b3ae328c7a1e055f.png",
-    "index.html": "/Greetech/index.html",
-    "main.d9c3c4fc.css.map": "/Greetech/static/css/main.d9c3c4fc.css.map",
-    "main.e168a039.js.map": "/Greetech/static/js/main.e168a039.js.map"
+    "main.css": "/Greetech-Project/static/css/main.d9c3c4fc.css",
+    "main.js": "/Greetech-Project/static/js/main.d5da529f.js",
+    "static/media/imageAbout.png": "/Greetech-Project/static/media/imageAbout.24b596f4f9ee4e2e4113.png",
+    "static/media/Peta.png": "/Greetech-Project/static/media/Peta.91da9761f98b48acee89.png",
+    "static/media/homeImage.png": "/Greetech-Project/static/media/homeImage.16bf5837f07a6f7e988e.png",
+    "static/media/product-2.png": "/Greetech-Project/static/media/product-2.93b49a37fac8882e98cc.png",
+    "static/media/whatsapp.png": "/Greetech-Project/static/media/whatsapp.965d92ce0d9f486938b6.png",
+    "static/media/facebook.png": "/Greetech-Project/static/media/facebook.01a470d813915c298403.png",
+    "static/media/gmail.png": "/Greetech-Project/static/media/gmail.f8dfbe8b0875e9328ff2.png",
+    "static/media/point.png": "/Greetech-Project/static/media/point.33023731b346ee2b429c.png",
+    "static/media/twitter.png": "/Greetech-Project/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/linkedin.png": "/Greetech-Project/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/Greetech-Project/index.html",
+    "main.d9c3c4fc.css.map": "/Greetech-Project/static/css/main.d9c3c4fc.css.map",
+    "main.d5da529f.js.map": "/Greetech-Project/static/js/main.d5da529f.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c3c4fc.css",
-    "static/js/main.e168a039.js"
+    "static/js/main.d5da529f.js"
   ]
 }
